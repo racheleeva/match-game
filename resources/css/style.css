@@ -1,1 +1,31 @@
+/* Tried to set these in HTML and wouldn't get picked up; had to put them in body...
+html {
+  font-family: "Work Sans", sans-serif;
+  background-color: rgb (255, 242, 242);
+}
+*/
 
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+  background-color: rgb(255, 242, 242);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: rgb(32, 64, 86);
+}
+
+h2 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: rgb(32, 64, 86);
+}
+
+p {
+  color: rgb(74, 74, 74)
+}
